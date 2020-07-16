@@ -1,3 +1,5 @@
+# this drop notebooks from GitHub language stats
+*.ipynb linguist-vendored
 *.dockerignore filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.yml filter=lfs diff=lfs merge=lfs -text
