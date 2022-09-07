@@ -18,3 +18,4 @@
 /utils/docker/Dockerfile-cpu filter=lfs diff=lfs merge=lfs -text
 /utils/docker/Dockerfile-M1 filter=lfs diff=lfs merge=lfs -text
 /utils/docker/Dockerfile-arm64 filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
