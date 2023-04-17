@@ -43,7 +43,7 @@ git clone https://github.com/username/your-repo.git
 
 ### Run real-time object detection with the trained model and an IP camera:
 
-python detect.py --source your_ip_camera_url --weights your_trained_weights.pt
+python detect.py --source your_ip_camera_url --weights<one of the models in **/trained_models** folder>
 
 ### Send email notifications with the detected object images:
 
