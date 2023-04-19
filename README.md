@@ -40,7 +40,8 @@ YOLOv5
 ### Clone this repository to your local machine:
 
 `git clone https://github.com/username/your-repo.git`
-NB: **Git-lfs used to push the large files into this repository
+
+NB: **Git-lfs used to push the large files into this repository**
 ### Run real-time object detection with the trained model and an IP camera:
 
 `python detect.py --source your_ip_camera_url --weights<one of the models in /trained_models folder>`
